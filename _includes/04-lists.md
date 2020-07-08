@@ -1,0 +1,6 @@
+- Games
+  - FPS
+  - Story driven games
+  - TTRPG
+- Servering the community 
+- Chilling
