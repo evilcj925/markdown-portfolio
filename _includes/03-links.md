@@ -1,1 +1,1 @@
-{github.com/evilcj}
+[Github](github.com/evilcj)
