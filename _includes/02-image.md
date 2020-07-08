@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Picture of Steampunk Girl](https://github.com/evilcj925/images/blob/master/steampunk_girl_by_zoestead.png?raw=true)
