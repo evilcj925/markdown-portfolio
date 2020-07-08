@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Games
+  - FPS
+  - Story driven games
+  - TTRPG
+- Servering the community 
+- Chilling
